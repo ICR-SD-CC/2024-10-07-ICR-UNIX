@@ -13,8 +13,8 @@ humandate: "Mon 7 Oct"
 humantime: "9am-1pm"
 startdate: 2024-10-07
 enddate: 2024-10-07
-instructor: ["Rachel Alcraft"]
-helper: ["tbc"]
+instructor: ["Mark Allen"]
+helper: ["Rachel Alcraft"]
 email: [""]
 collaborative_notes:  
 eventbrite:           
